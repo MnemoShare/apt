@@ -1,13 +1,13 @@
 Package: mnemocli
-Version: 0.18.9
+Version: 0.18.11
 Architecture: arm64
 Maintainer: MnemoShare <support@mnemoshare.com>
 Installed-Size: 12928
-Filename: pool/main/mnemocli_0.18.9_linux_arm64.deb
-Size: 5019012
-MD5sum: 8c7fdb3abd3cc5924e0dd6ad8e1b5e94
-SHA1: 233f7301175f23bb6cf29760ef254b93087166ba
-SHA256: e5b5d091f136e008a62f0d695a27a5fef8813c89b41979dc3fda7c1b0f9d8311
+Filename: pool/main/mnemocli_0.18.11_linux_arm64.deb
+Size: 5019252
+MD5sum: 2757069f2865cd165a429f6ed8366f2e
+SHA1: 9254799006bee77e16090b234509e0e111cd6f9b
+SHA256: 59edd14d2382b51797a3f7a3642be1c6c4e22e64737a290e0f1bfdea384229b9
 Priority: optional
 Homepage: https://github.com/mnemoshare/mnemoshare
 Description: MnemoShare CLI - HIPAA-compliant secure file transfer
